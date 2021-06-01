@@ -1,6 +1,6 @@
 import React from 'react';
+import {Row, Col} from 'antd';
 
-{/*
 const items = [
     {
         key:'1',
@@ -23,7 +23,7 @@ const items = [
         content:"sometext goes here"
 
     }
-]*/}
+]
 function About(){
     return(
       
@@ -40,7 +40,7 @@ function About(){
 
                     </p>
                 </div>
-              {/*  <Row gutter={[16, 16]}>
+                <Row gutter={[16, 16]}>
                     {items.map(item => {
                         return (
                             <Col md={{ span: 8}} key={item.key}>
@@ -56,7 +56,7 @@ function About(){
                     })}
                
                
-                </Row>*/}
+                </Row>
             </div>
          
         </div>

@@ -17,16 +17,12 @@ function App() {
   return (
     <Layout className="mainLayout">
     <Header style={{ position: 'fixed', zIndex: 1, width: '100%' }}>
-
-      <Appheader />
-      
+     <Appheader />
     </Header>
     <Content>
       <Home/>
       <About />
       <Services />
-    
-      
     </Content>
     <Footer>
      <AppFooter/>

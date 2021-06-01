@@ -26,7 +26,6 @@ function Appheader(){
        <Link href="#hero" title="Home" />
        <Link href="#about" title="About" />
        <Link href="#services" title="Services" />
-       <Link href="#works" title="works" />
        <Link href="#footer" title="contact" />
        </Anchor>
       </div>
@@ -45,7 +44,6 @@ function Appheader(){
        <Link href="#hero" title="Home" />
        <Link href="#about" title="About" />
        <Link href="#services" title="Services" />
-       <Link href="#works" title="works" />
        <Link href="#footer" title="contact" />
        </Anchor>
       </Drawer>
